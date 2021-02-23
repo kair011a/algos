@@ -1,5 +1,5 @@
 /* 
-        TRIVIAL O(N^2);
+        TRIVIAL algo O(N^2);
 */
 vector<int> z_function_trivial (string s) {
 	int n = (int)s.size();
@@ -12,7 +12,6 @@ vector<int> z_function_trivial (string s) {
   	}
 	return z;
 }
-///
 /*
         O(N);
 */
