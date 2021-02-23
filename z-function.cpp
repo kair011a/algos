@@ -31,4 +31,4 @@ vector<int> Z(string s) {
 		}
 	}
 	return z;
-}
+} 
