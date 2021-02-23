@@ -12,7 +12,7 @@ vector<int> z_function_trivial (string s) {
   	}
 	return z;
 }
-
+///
 /*
         O(N);
 */
